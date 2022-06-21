@@ -11,6 +11,8 @@
     
   </p>
 </div>
+<br/>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -52,7 +54,7 @@ Dashboard informasi HIV-AIDS di Indonesia merupakan dashboard informasi mengenai
 
 ### Built With
 
-Dashboard informasi HIV-AIDS di Indonesia dibuat menggunakan software Tableau Dekstop dan hasilnya dapat diakses pada Tableau Public pada tautan berikut: [Dashboard Informasi HIV-AIDS di Indonesia](https://public.tableau.com/app/profile/rumayani.nur/viz/HIV-AIDSdiIndonesia/HIV-AIDS)
+Dashboard informasi HIV-AIDS di Indonesia dibuat menggunakan software Tableau Dekstop dan hasilnya dapat diakses melalui Tableau Public pada tautan berikut: [Dashboard Informasi HIV-AIDS di Indonesia](https://public.tableau.com/app/profile/rumayani.nur/viz/HIV-AIDSdiIndonesia/HIV-AIDS)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
