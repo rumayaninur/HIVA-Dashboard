@@ -66,7 +66,7 @@ Dashboard informasi HIV-AIDS di Indonesia dibuat menggunakan software Tableau De
 Dashboard informasi HIV-AIDS di Indonesia dapat diakses melalui tautan berikut: [https://public.tableau.com/app/profile/rumayani.nur/viz/HIV-AIDSdiIndonesia/HIV-AIDS](https://public.tableau.com/app/profile/rumayani.nur/viz/HIV-AIDSdiIndonesia/HIV-AIDS). Dashboard ini digunakan untuk memantau perkembangan jumlah kasus HIV dan AIDS di Indonesia. Hal ini dikarenakan dashboard informasi tersebut akan diupdate secara berkala berdasarkan laporan situasi perkembangan HIV-AIDS & PIMS Indonesia yang diterbitkan oleh Kementrian Kesehatan melalui [SIHA](https://siha.kemkes.go.id/login_index.php).
 
 Untuk setiap dashboard, terdapat filter yang dapat digunakan untuk menampilkan data yang diinginkan.
-* Pada dashboard HIV/AIDS, filter data yang dapat digunakan yaitu filter provinsi dan filter rentang tahun.
+* Pada dashboard HIV-AIDS, filter data yang dapat digunakan yaitu filter provinsi dan filter rentang tahun.
 * Pada dashboard HIV, filter data yang dapat digunakan yaitu filter kasus dan filter tahun.
 * Pada dashboard AIDS, filter data yang dapat digunakan yaitu filter kasus dan filter tahun.
 
