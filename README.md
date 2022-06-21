@@ -54,7 +54,7 @@ Dashboard informasi HIV-AIDS di Indonesia merupakan dashboard informasi mengenai
 
 ### Built With
 
-Dashboard informasi HIV-AIDS di Indonesia dibuat menggunakan software Tableau Dekstop dan hasilnya dapat diakses melalui Tableau Public pada tautan berikut: [Dashboard Informasi HIV-AIDS di Indonesia](https://public.tableau.com/app/profile/rumayani.nur/viz/HIV-AIDSdiIndonesia/HIV-AIDS)
+Dashboard informasi HIV-AIDS di Indonesia dibuat menggunakan software Tableau Dekstop dan hasilnya dapat diakses melalui Tableau Public pada tautan berikut: [https://public.tableau.com/app/profile/rumayani.nur/viz/HIV-AIDSdiIndonesia/HIV-AIDS](https://public.tableau.com/app/profile/rumayani.nur/viz/HIV-AIDSdiIndonesia/HIV-AIDS).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -63,7 +63,7 @@ Dashboard informasi HIV-AIDS di Indonesia dibuat menggunakan software Tableau De
 <!-- USAGE -->
 ## Usage
 
-Dashboard informasi HIV-AIDS di Indonesia dapat digunakan untuk memantau perkembangan jumlah kasus HIV dan AIDS di Indonesia. Hal ini dikarenakan dashboard informasi ini akan diupdate secara berkala berdasarkan laporan situasi perkembangan HIV-AIDS & PIMS Indonesia yang diterbitkan oleh Kementrian Kesehatan melalui [SIHA](https://siha.kemkes.go.id/login_index.php).
+Dashboard informasi HIV-AIDS di Indonesia dapat diakses melalui tautan berikut: [https://public.tableau.com/app/profile/rumayani.nur/viz/HIV-AIDSdiIndonesia/HIV-AIDS](https://public.tableau.com/app/profile/rumayani.nur/viz/HIV-AIDSdiIndonesia/HIV-AIDS). Dashboard ini digunakan untuk memantau perkembangan jumlah kasus HIV dan AIDS di Indonesia. Hal ini dikarenakan dashboard informasi tersebut akan diupdate secara berkala berdasarkan laporan situasi perkembangan HIV-AIDS & PIMS Indonesia yang diterbitkan oleh Kementrian Kesehatan melalui [SIHA](https://siha.kemkes.go.id/login_index.php).
 
 Untuk setiap dashboard, terdapat filter yang dapat digunakan untuk menampilkan data yang diinginkan.
 * Pada dashboard HIV/AIDS, filter data yang dapat digunakan yaitu filter provinsi dan filter rentang tahun.
